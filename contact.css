@@ -1,0 +1,91 @@
+.go{
+    background-color: red;
+    width: 55%;
+    height: 50px;
+    margin: auto;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    padding-top: 80px;
+}
+.come{
+    background-color: blue;
+    width: 55%;
+    height: 200px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.sit{
+    background-color: green;
+    width: 55%;
+    height: 250px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.win{
+    height: 50px;
+    width: 97%;
+}
+.on{
+    background-color: pink;
+    height: 40px;
+    width: 100px;
+    padding-left: 30px;
+        font-style:oblique
+}
+.our{
+    background-color:orange;
+    height: 40px;
+    width: 100px;
+    padding-left: 30px;
+    font-style: italic;
+}
+.my{
+    background-color: purple;
+    height: 40px;
+    font-style: italic;
+    width: 100px; 
+    padding-left:30px ;
+}
+.lot{
+        text-align: center;
+        height: 40px;
+}
+.email{
+    background-color: blue;
+    font-style: italic;
+    height: 30px;
+    width: 300px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    text-align: center;
+}
+.subject{
+    background-color: blue;
+    font-style: italic;
+    height: 30px;
+    width: 300px; 
+    margin-bottom: 5px;
+    margin-top: 5px;
+    text-align: center;
+}
+.name{
+    background-color: blue;
+    font-style: italic;
+    height:30px ;
+    width: 300px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.boy{
+    background-color: purple;
+    width: 55%;
+    height: 60px;
+    margin: auto;
+    margin-top: 10px;
+    }
+    .girl{
+        font-style: italic;
+        height: 20px;
+        text-align: center;
+    }

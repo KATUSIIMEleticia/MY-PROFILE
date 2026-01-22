@@ -1,0 +1,52 @@
+.queen{
+    background-color: brown;
+    width: 40%;
+    height: 50px;
+    margin: auto;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    padding-top: 80px;
+}
+.sty{
+    background-color: blue;
+    width: 40%;
+    height: 400px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+.god{
+    background-color: plum;
+    height: 400px;
+    width: 50%;
+    float: left;
+}
+.one{
+    background-color: purple;
+    height: 400px;
+    width:300px ;
+    float: right;
+}
+.kraal{
+    background-color: green;
+    width: 40%;
+    height: 300px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+.cow{
+    background-color: orange;
+    width: 40%;
+    height: 100px;
+    margin: auto;
+}
+.go{
+    background-color: yellow;
+    width: 300px;
+    height: 200px;
+    margin-bottom: 20px;
+}
+.come{
+    width: 300px;
+    height:179px ;
+    background-color: red;
+}
